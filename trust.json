@@ -4,7 +4,7 @@
         {
             "Effect": "Allow",
             "Principal": {
-                "AWS": "arn:aws:iam::168807006739:root"
+                "AWS": "arn:aws:iam::747270492959:user/Udacity"
             },
             "Action": "sts:AssumeRole"
         }
